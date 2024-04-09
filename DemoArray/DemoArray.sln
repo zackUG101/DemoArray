@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindInArray", "FindInArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMax", "FindMax\FindMax.csproj", "{B0B3449D-5496-4D2F-9CC3-07B2F8AA9B66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertIntoArray", "InsertIntoArray\InsertIntoArray.csproj", "{3A83E4D3-4652-4847-A72F-A5E515FE257E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B0B3449D-5496-4D2F-9CC3-07B2F8AA9B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0B3449D-5496-4D2F-9CC3-07B2F8AA9B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0B3449D-5496-4D2F-9CC3-07B2F8AA9B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A83E4D3-4652-4847-A72F-A5E515FE257E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A83E4D3-4652-4847-A72F-A5E515FE257E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A83E4D3-4652-4847-A72F-A5E515FE257E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A83E4D3-4652-4847-A72F-A5E515FE257E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

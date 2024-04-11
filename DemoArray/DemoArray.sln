@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySum", "ArraySum\ArraySum.csproj", "{34DAB047-DF7B-48C2-B36B-1930FF56097A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySum", "ArraySum\ArraySum.csproj", "{34DAB047-DF7B-48C2-B36B-1930FF56097A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindInArray", "FindInArray\FindInArray.csproj", "{D7252A99-0280-46EA-8C20-99D6F605F75A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindInArray", "FindInArray\FindInArray.csproj", "{D7252A99-0280-46EA-8C20-99D6F605F75A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMax", "FindMax\FindMax.csproj", "{B0B3449D-5496-4D2F-9CC3-07B2F8AA9B66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMax", "FindMax\FindMax.csproj", "{B0B3449D-5496-4D2F-9CC3-07B2F8AA9B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertIntoArray", "InsertIntoArray\InsertIntoArray.csproj", "{3A83E4D3-4652-4847-A72F-A5E515FE257E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertIntoArray", "InsertIntoArray\InsertIntoArray.csproj", "{3A83E4D3-4652-4847-A72F-A5E515FE257E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxMatrix", "FindMaxMatrix\FindMaxMatrix.csproj", "{7B60D2C4-68F8-4A85-A84B-3353B7EFFB91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindMaxMatrix", "FindMaxMatrix\FindMaxMatrix.csproj", "{7B60D2C4-68F8-4A85-A84B-3353B7EFFB91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFromArray", "RemoveFromArray\RemoveFromArray.csproj", "{DA699882-9CA7-4BB3-9336-6F2E52A97168}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7B60D2C4-68F8-4A85-A84B-3353B7EFFB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B60D2C4-68F8-4A85-A84B-3353B7EFFB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B60D2C4-68F8-4A85-A84B-3353B7EFFB91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA699882-9CA7-4BB3-9336-6F2E52A97168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA699882-9CA7-4BB3-9336-6F2E52A97168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA699882-9CA7-4BB3-9336-6F2E52A97168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA699882-9CA7-4BB3-9336-6F2E52A97168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
